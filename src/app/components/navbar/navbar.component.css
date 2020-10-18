@@ -1,0 +1,22 @@
+.navbar-toggler {
+    border: none;
+}
+
+.navbar-toggler:focus {
+    outline: none;
+}
+
+.nav-button {
+    cursor: pointer;
+}
+
+.btn-tool {
+    background: transparent;
+    border: none;
+    outline: none;
+}
+
+.nav-item {
+    margin-left: 6px;
+    margin-right: 6px;
+}
